@@ -42,7 +42,7 @@ TastyTrack/
 
 Clone the repository:
 
-git clone https://github.com/Vidhyashree2/Tastytrack.git
+git clone https://github.com/Swasthii/Tasty_Track.git
 
 Navigate to the project folder:
 
