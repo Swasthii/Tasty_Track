@@ -4,7 +4,7 @@ TastyTrack
 
 TastyTrack is a full-stack web application designed to help users track their favorite dishes, restaurants, and meal preferences. It allows users to log meals, discover new dishes, and maintain a digital record of their dining experiences.
 
-🚀 Features
+🚀 Features :
 
 User Authentication – Secure login and registration system.
 
@@ -16,7 +16,7 @@ Search & Filters – Find dishes based on cuisine, ingredients, or location.
 
 Responsive Design – Optimized for mobile and desktop users.
 
-🛠 Tech Stack
+🛠 Tech Stack :
 
 Frontend: HTML, CSS, JavaScript
 
@@ -26,7 +26,7 @@ Database: MongoDB
 
 Architecture: Model-View-Controller (MVC)
 
-📂 Project Structure
+📂 Project Structure :
 
 TastyTrack/
 │── client/         # Frontend files
@@ -38,7 +38,7 @@ TastyTrack/
 │── routes/         # API endpoints
 │── server.js       # Entry point for backend server
 
-🔧 Installation
+🔧 Installation :
 
 Clone the repository:
 
